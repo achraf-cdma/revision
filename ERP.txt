@@ -1,0 +1,246 @@
+Le concept de l'entreprise
+    Approche traditionnelle
+        L'ese = unité de bien et de service
+            Pour fabriquer des biens ou des services l'ese(industrielle ou  commerciale) doit combiner différents facteurs de poroduction
+                * Travail                       =>  Heures de main d'oeuvres    => participe à la réalisation de plusieurs cycles de production
+                * Capital technique fixe        =>  Terrain,Immeuble,Machine    => permettent la réalisation de +eurs cycles de production(l'achat des bien = investissement)
+                * Capital technique circulant   =>  Fuel,Bois,Semi-conducteur   => disparaissent ou sont inclus dans le produit fini à chaque cycle(l'utilisation de ces biens = consommation intermediaire) 
+        L'ese = unité de réparation de richesse 
+                * richesse(Valeur ajoutée) est répartie sur les agents économiques participant à l'activité de production
+                    - Le personnel                  =>  Salaire
+                    - L'état                        =>  Impots / Cotisations sociales
+                    - Les prêteurs                  =>  Intêrets
+                    - Les apporteurs de capitaux    =>  Dividendes
+                    - L'entreprise                  => Revenus non distribués
+    Approche systemique
+        L'ese = système ayant autant des caractéristiques propres
+            * Composants structuraux    =>  territoire délimité, élement matériels + humaines, réseau de communication 
+            * Composants fonctionnels   =>  flux d'énérgie, d'information, marchandise circulant entre les unités de système
+        Les carctéristiques du système d'entreprise : 
+            * L'entreprise est un système organisé 
+                # Les organes
+                    - Organes permanent
+                    - Organes non permanents
+                    - Organes réglementaires
+                # Les liaisons
+                    - Hiérarchique
+                    - Fonctionnels
+                    - De conseil
+            * L'entreprise est un système ouvert
+                # Flux d'entrée 
+                    - Facteurs de production (main d'oeuvres,matériel,matière première)
+                    - Capitaux
+                # Flux de sortie
+                    - Produits et services
+                    - Depenses et revenus
+            * L'entreprise est un système finalisé 
+                # Finalité à caractère personnel
+                    - Prestige
+                    - Pouvoir
+                    - Profit et securité
+                # Finalité à caractère institutionnel
+                    - Economique
+                    - Sociale
+                    - Sociétale
+Classification des entreprises
+    * Critères du regroupement
+        - Juridiques
+        - Dimonsionnels
+        - Economiques
+            # Sectorielle
+                * Primaire (extraction du matière première)
+                * Secondaire (transformation du matière première vers produits finis ou semi-finis)
+                * Tertiaire (prestatires de services)
+                * Quaternaire (nouvelles technologies)
+            # Types d'opérations
+            # Branche
+Les types de structures de l'ese
+    * Structure hiérarchique de l'ese
+        - Unité de commandement (militaire)
+        - Déléguation de l'autorité                 
+        - Principe de la responsabilité absolue       
+        Exemple
+            Direction générale
+                Direction administrative
+                Direction technique
+                    Directeur des études
+                    Directeur d'usine
+                        Atelier tissage
+                        Atelier confection 
+                Direction commerciale
+    * Structure fonctionnelle
+        - Absence de l'unité de commandement
+        - La déléguation du pouvoir et de l'autorité à des responsables fonctionnels
+        Exemple
+            Chef d'atelier
+                Spécialiste entretien
+                    Ouvrier 1
+                    Ouvrier 2
+                Spécialiste méthodes
+                    Ouvrier 1
+                    Ouvrier 2
+                Spécialiste temps
+                    Ouvrier 1
+                    Ouvrier 2
+                Spécialiste qualité
+                    Ouvrier 1
+                    Ouvrier 2
+    * Structure hiérarchico-Fonctionnelle
+        - Unité de commandement
+        - Spécialisation
+        Exemple
+            Etat major(conseil en stratégie, planification, controle de gestion)
+            Direction générale
+                Direction production
+                    Chef de produit A
+                    Chef de produit B
+                Direction ressources humaines
+                Direction commerciale
+                    Responsable Vente France
+                    Responsable Vente England
+                Direction technique
+                    Directeur des études
+                    Directeur d'usine
+                        Atelier tissage
+                        Atelier confection 
+                Direction commerciale
+    * Structure divisionnelle (ou structure en M chandler)
+    => découpage en divisions selon
+        - type de produit
+        - Zone géographique
+        - Catégories de clients du système-entreprise
+        Exemple
+            Direction générale(coordination de l'ensemble des division,assure le controle des résultats)
+                Division Europe(autonome)
+                    Service marketing
+                    Service production
+                    Service RH
+                Division Asie(autonome)
+                    Service marketing
+                    Service production
+                    Service RH
+    * Structure matricielle (structure fonctionnelle + structure divisionnelle)=>adaptés aux firmes multinationales et les e/se qui ont +eurs activités
+    => découpage selon 
+        - Fonction
+        - Zone Géographie
+        - Activité
+        Exemple
+            Direction du groupe
+                Projet
+                    - Projet 1
+                    - Projet 2
+                    - Projet 3
+                Fabrication
+                    - 
+                    -   
+                    - 
+                Vente
+                    - 
+                    -   
+                    - 
+                R&D
+                    - 
+                    -   
+                    - 
+                Finance
+                    - 
+                    -   
+                    - 
+Consultant ERP
+    Types 
+        * Consultant technique
+            - Architecture
+            - Développement spécifique
+            - Optimisation
+            - Intégration
+        * Consultant fonctionnel
+            - Rédaction des cahier des charges
+            - Dossier de paramétrage
+            - Préparation des plannings de tests
+            - Réalisation des tests
+            - Validation de la recette
+            - Mise en production
+            - Support post-production
+Processus 
+    Définition
+        Déscription d'un système d'activité qui utilise des ressources pour transformer des flux d'entrée en flux de sortie
+        Chaque activité est un sous processus
+        Chaque activité est découpé en taches
+        Chaque taches est découpé en actions
+    Chaque processus
+        - décrit "Quoi faire" dans un ordre prédéfini
+        - transversale est implique plusieurs métiers
+        - Transforme,en ajoutant de la valeur
+        - Représente une vue dynamique de l'organisation
+        - Possède un début et une fin
+        - Ajoute de la valeur aux biens ou aux services
+        - Est composé de sous-processus, puis d'activités
+        - S'éxecute généralement horizontalement à travers une organisation verticale
+    Types 
+        * Processus de réalisation
+        * Processus de support
+        * Processus de direction
+ERP(Rntreprise Ressource Planning) / PGI (Progiciel de Gestion Intégré)
+    Définition
+        Progiciel qui permet d'intégrer tous les processus d'affaires d'une organisation
+    Les modules d'un ERP
+        - RH
+        - Finance
+        - Hygiene,Securité,qualité,Environnement
+        - Vente & Distribution
+        - etc
+Historique des ERP
+    1 - MRP     (Material Requirements Planning)    => calculer la quantité de matière première necessaire,les composants requis et la quantité de produit fini qui sera fabriqué(travaille en tant que directeur de production)
+    2 - MRP II  (Manufacturing Ressource Planning)  => MRP + intégration d'autres services de l'entreprises (commerciale, Financer, etc) en analysant le comportement de l'e/se pour bien planifier
+Modules des ERP
+    * MM
+    * FI
+    * PP
+    * SD
+    * QM
+    * PM
+    * AM
+    * HR
+    * SLCM
+SAP
+    SAP Business One
+    S4/HN
+Oracle
+    Oracle Business suite
+    Oralce financial
+Microsoft
+    Microsoft Dynamics 365 Entreprise Edition
+    Microsoft Dyanmics 365 Business Edition
+Processus
+    * Achat
+        1 - Analyse des besoins
+            Expression des besoins
+            Cahier des charges
+        2 - Sourcing des fournisseurs
+            Gestion des appels d'offre
+            Consulter les fournisseurs
+        3 - Fournisseurs
+            Evaluation des offres
+            Négociation
+            Sélection du fournisseur finale 
+        4 - Contrat
+        5 - Achat
+        6 - Paiement
+        Documents Essentiels
+            PR(Purchase Requisition)=demande d'achat
+            PO(Purchase Order)=bon de commande
+            GR(Goods Reception)=Accusé de reception/BL fournisseur
+        Roles des équipes
+            Comité de pilotage
+            Equipe Projet
+            Groupes de travail
+            Equipe d'infrastructure technique
+        Les contraintes majeures
+            Budgets
+            Ressources 
+            Deadlines
+Grille d'évaluation des progiciels
+    Lister des question sur un progiciel + fonctionnalité q'on souhaite couvrir
+    Cadre de réponse(fait partie intégrante du cahier des charges)
+    Un outil pour l'analyse des besoins
+    Un outil pour la comparaison des solutions
